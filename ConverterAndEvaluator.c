@@ -2,9 +2,6 @@
                                 COMP1028 PROGRAMMING AND ALGORITHMS COURSEWORK (CW.c)
                                    CW: Prefix, Postfix, Infix Expression Evaluator
 
-        Name: Salma Tamer Fathy Ahmed Elsaid
-        Student ID: 20050927
-
         Compiler used: GCC
         IDE: CodeBlocks
         Operating system: Windows 10
